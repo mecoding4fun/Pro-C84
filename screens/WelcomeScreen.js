@@ -178,7 +178,6 @@ export default class WelcomeScreen extends Component {
           }
         </View>
         <View style={styles.profileContainer}>
-          {/* <BarterAnimation/> */}
           <Text style={styles.title}>Barter</Text>
           <Text style={{color:'#ff8a65'}}> A Trading Method </Text>
         </View>
